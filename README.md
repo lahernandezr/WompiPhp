@@ -1,2 +1,2 @@
 # WompiPhp
-Librería que implementa al API de Wompi SV de Banco Agricola 
+Librería que implementa el API de Wompi SV de Banco Agricola 
